@@ -1,0 +1,15 @@
+final int SIZE_OF_ALIENS = 25;
+final int NUMBER_OF_ALIENS = 10;
+final int SCREENX = 600;
+final int SCREENY = 400;
+final int MARGIN = 20;
+final int ALIENSPEED = 2;
+final int BULLETSPEED = 5;
+final int BOMBSPEED = 2;
+public int PLAYERWIDTH = 20;
+public int PLAYERHEIGHT = 20;
+public int BULLETWIDTH = 5;
+public int BULLETHEIGHT = 5;
+public int BOMBWIDTH = 5;
+public int BOMBHEIGHT = 5;
+public int DURATION_OF_EXPLOSION = 50;
